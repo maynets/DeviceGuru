@@ -373,6 +373,34 @@
 		<key>enum</key>
 		<string>IPHONE_15_PRO_MAX</string>
 	</dict>
+	<key>iPhone17,1</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 16 Pro</string>
+		<key>enum</key>
+		<string>IPHONE_16_PRO</string>
+	</dict>
+	<key>iPhone17,2</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 16 Pro Max</string>
+		<key>enum</key>
+		<string>IPHONE_16_PRO_MAX</string>
+	</dict>
+	<key>iPhone17,3</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 16</string>
+		<key>enum</key>
+		<string>IPHONE_16</string>
+	</dict>
+	<key>iPhone17,4</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 16 Plus</string>
+		<key>enum</key>
+		<string>IPHONE_16_PLUS</string>
+	</dict>
 	<key>iPod1,1</key>
 	<dict>
 		<key>name</key>
@@ -996,6 +1024,20 @@
 		<key>enum</key>
 		<string>IPAD_PRO_6G_WIFI_CELLULAR</string>
 	</dict>
+	<key>iPad14,8</key>
+	<dict>
+		<key>name</key>
+		<string>Apple iPad Air 11‑inch M2 </string>
+		<key>enum</key>
+		<string>IPAD_AIR_11</string>
+	</dict>
+	<key>iPad14,9</key>
+	<dict>
+		<key>name</key>
+		<string>Apple iPad Air 11‑inch M2 (WiFi + Cellular) </string>
+		<key>enum</key>
+		<string>IPAD_AIR_11_CELLULAR</string>
+	</dict>
 	<key>iPad16,3</key>
 	<dict>
 		<key>name</key>
@@ -1006,7 +1048,7 @@
 	<key>iPad16,4</key>
 	<dict>
 		<key>name</key>
-		<string>iPad Pro 11 inch M4</string>
+		<string>iPad Pro 11 inch M4 (WiFi + Cellular) </string>
 		<key>enum</key>
 		<string>IPAD_PRO_11_M4_CELLULAR</string>
 	</dict>
@@ -1020,7 +1062,7 @@
 	<key>iPad16,6</key>
 	<dict>
 		<key>name</key>
-		<string>iPad Pro 13 inch M4</string>
+		<string>iPad Pro 13 inch M4 (WiFi + Cellular) </string>
 		<key>enum</key>
 		<string>IPAD_PRO_13_M4_CELLULAR</string>
 	</dict>

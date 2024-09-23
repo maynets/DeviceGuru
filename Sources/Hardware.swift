@@ -63,6 +63,10 @@ public enum Hardware {
     case iphone_15_plus
     case iphone_15_pro
     case iphone_15_pro_max
+    case iphone_16_pro
+    case iphone_16_pro_max
+    case iphone_16
+    case iphone_16_plus
 
     case ipod_touch_1g
     case ipod_touch_2g
@@ -153,6 +157,8 @@ public enum Hardware {
     case ipad_pro_11_4g_wifi_cellular
     case ipad_pro_6g_wifi
     case ipad_pro_6g_wifi_cellular
+    case ipad_air_11
+    case ipad_air_11_cellular
     case ipad_pro_11_m4
     case ipad_pro_11_m4_cellular
     case ipad_pro_13_m4
