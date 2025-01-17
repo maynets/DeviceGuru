@@ -17,13 +17,13 @@ public final class DeviceGuruImplementation: DeviceGuru {
     }
 
     private lazy var hardwareDetail: [String: Any]? = {
-        guard let hardwareDetail = loadHardwareDetailFromUserDefaultsIfLatest() else {
+        //guard let hardwareDetail = loadHardwareDetailFromUserDefaultsIfLatest() else {
             let allDevices = loadAllDeviceDictionaryFromPlist()
             let hardwareDetail = allDevices[_hardwareString] as? [String: Any]
-            saveHardwareDetailToUserDefaults(hardwareDetail: hardwareDetail)
+            //saveHardwareDetailToUserDefaults(hardwareDetail: hardwareDetail)
             return hardwareDetail
-        }
-        return hardwareDetail
+        //}
+        //return hardwareDetail
     }()
 
     private lazy var _hardwareString: String = {
