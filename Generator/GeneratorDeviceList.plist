@@ -401,6 +401,13 @@
 		<key>enum</key>
 		<string>IPHONE_16_PLUS</string>
 	</dict>
+	<key>iPhone17,5</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 16e</string>
+		<key>enum</key>
+		<string>IPHONE_16_E</string>
+	</dict>
 	<key>iPod1,1</key>
 	<dict>
 		<key>name</key>

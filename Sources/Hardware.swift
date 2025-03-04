@@ -67,6 +67,7 @@ public enum Hardware {
     case iphone_16_pro_max
     case iphone_16
     case iphone_16_plus
+    case iphone_16_e
 
     case ipod_touch_1g
     case ipod_touch_2g
