@@ -408,6 +408,34 @@
 		<key>enum</key>
 		<string>IPHONE_16_E</string>
 	</dict>
+	<key>iPhone18,1</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 17 Pro</string>
+		<key>enum</key>
+		<string>IPHONE_17_PRO</string>
+	</dict>
+	<key>iPhone18,2</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 17 Pro Max</string>
+		<key>enum</key>
+		<string>IPHONE_17_PRO_MAX</string>
+	</dict>
+	<key>iPhone18,3</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 17</string>
+		<key>enum</key>
+		<string>IPHONE_17</string>
+	</dict>
+	<key>iPhone18,4</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone Air</string>
+		<key>enum</key>
+		<string>IPHONE_AIR</string>
+	</dict>
 	<key>iPod1,1</key>
 	<dict>
 		<key>name</key>

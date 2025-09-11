@@ -872,6 +872,26 @@
 		<key>name</key>
 		<string>iPhone 16e</string>
 	</dict>
+	<key>iPhone18,1</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 17 Pro</string>
+	</dict>
+	<key>iPhone18,2</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 17 Pro Max</string>
+	</dict>
+	<key>iPhone18,3</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 17</string>
+	</dict>
+	<key>iPhone18,4</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone Air</string>
+	</dict>
 	<key>iPhone2,1</key>
 	<dict>
 		<key>name</key>
