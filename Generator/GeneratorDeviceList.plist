@@ -436,6 +436,13 @@
 		<key>enum</key>
 		<string>IPHONE_AIR</string>
 	</dict>
+	<key>iPhone18,5</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 17e</string>
+		<key>enum</key>
+		<string>IPHONE_17_E</string>
+	</dict>
 	<key>iPod1,1</key>
 	<dict>
 		<key>name</key>

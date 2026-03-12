@@ -892,6 +892,11 @@
 		<key>name</key>
 		<string>iPhone Air</string>
 	</dict>
+	<key>iPhone18,5</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 17e</string>
+	</dict>
 	<key>iPhone2,1</key>
 	<dict>
 		<key>name</key>

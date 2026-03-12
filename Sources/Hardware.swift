@@ -72,6 +72,7 @@ public enum Hardware {
     case iphone_17_pro_max
     case iphone_17
     case iphone_air
+    case iphone_17_e
 
     case ipod_touch_1g
     case ipod_touch_2g

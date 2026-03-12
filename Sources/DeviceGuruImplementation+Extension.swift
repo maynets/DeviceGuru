@@ -184,6 +184,7 @@ public extension DeviceGuruImplementation {
         if (hardwareString == "iPhone18,2") { return .iphone_17_pro_max }
         if (hardwareString == "iPhone18,3") { return .iphone_17 }
         if (hardwareString == "iPhone18,4") { return .iphone_air }
+        if (hardwareString == "iPhone18,5") { return .iphone_17_e }
         if (hardwareString == "iPhone2,1") { return .iphone_3gs }
         if (hardwareString == "iPhone3,1") { return .iphone_4 }
         if (hardwareString == "iPhone3,2") { return .iphone_4 }
